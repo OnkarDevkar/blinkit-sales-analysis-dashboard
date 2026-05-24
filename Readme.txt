@@ -9,6 +9,9 @@ A Power BI dashboard analyzing Blinkit (India's Last Minute App) sales data span
 This report provides a comprehensive view of Blinkit's sales performance across outlet types, locations, item categories, and fat content classifications. It is designed to support data-driven decisions around inventory, outlet strategy, and product mix.
 
 ---
+# Dashboard Preview
+
+![Blinkit Dashboard](https://github.com/OnkarDevkar/blinkit-sales-analysis-dashboard/blob/main/Visuals/Screenshot%202026-05-24%20091149.png)
 
 ## 📁 File
 
