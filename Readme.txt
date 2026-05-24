@@ -11,7 +11,7 @@ This report provides a comprehensive view of Blinkit's sales performance across 
 ---
 # Dashboard Preview
 
-![Blinkit Dashboard](https://github.com/OnkarDevkar/blinkit-sales-analysis-dashboard/blob/main/Visuals/Screenshot%202026-05-24%20091149.png)
+![Blinkit Dashboard]("https://github.com/OnkarDevkar/blinkit-sales-analysis-dashboard/blob/main/Visuals/Screenshot%202026-05-24%20091149.png")
 
 ## 📁 File
 
